@@ -1,0 +1,16 @@
+body {
+    // background-image: url("media/3K.jpg");
+    // background-color: grey;
+    // color: white;
+    background-size: 100px;
+    font-family: Helvetica;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    // background-color: lightcyan;
+    padding: 1em;
+    margin: 0;
+    // box-shadow: 5px 5px 40px;
+}
