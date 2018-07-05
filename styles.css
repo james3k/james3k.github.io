@@ -1,8 +1,9 @@
 body {
-    // background-image: url("media/3K.jpg");
+    // background-image: url("media/sitebackground.png");
     // background-color: grey;
     // color: white;
-    background-size: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
     font-family: Helvetica;
     padding: 0;
     text-align: center;
